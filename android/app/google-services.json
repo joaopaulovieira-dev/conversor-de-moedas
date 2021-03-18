@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "307592563725",
+    "project_id": "conversor-moeda-jpvp",
+    "storage_bucket": "conversor-moeda-jpvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307592563725:android:63f35e482626bb6b331944",
+        "android_client_info": {
+          "package_name": "dev.joaopaulovieira.conversor_moeda_jpvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307592563725-v9d18svbks70dlm99mh4f2lgd533l0ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.joaopaulovieira.conversor_moeda_jpvp",
+            "certificate_hash": "26b47782db57e6377ec75d7ebad6d5e041fbc461"
+          }
+        },
+        {
+          "client_id": "307592563725-g17nmet173k29mh0h5gpe39mgs5suc6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9d21RGfzIvo0I5aROsB9nR6xVbdDtLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307592563725-g17nmet173k29mh0h5gpe39mgs5suc6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
