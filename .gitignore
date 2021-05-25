@@ -31,6 +31,12 @@
 .pub/
 /build/
 
+# Para todos os arquivos e sub-pastas localizados na pasta others/
+others/
+
+# Para arquivo Key
+android/app/key.jks
+
 # Web related
 lib/generated_plugin_registrant.dart
 
