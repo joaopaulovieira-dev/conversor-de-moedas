@@ -10,7 +10,7 @@
 
 [Conversor de Moedas](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.conversor_moeda_jpvp)
 
-## Descrição do Projeto
+## Descrição do Projeto :bookmark_tabs:
 App criado para conversão das principais moedas do mercado, Real, Dólar, Euro, Libra Esterlina, Dólar Canadense, Dólar Australiano, Peso Argentino, Iene japonês, Yuan Chinês, Franco Suíço e Novo Shekel Israelense.
 
 Com o consumo de uma API RESTful é possível sempre ter os valos das moedas sempre atualizadas para o usuário, que tem a possibilidade de realizar instantaneamente a conversão de várias moedas apenas selecionando e inserindo o valor na moeda escolhida. O App possui também o recuso de visualizar o histórico dos fechamentos das moedas através de gráficos e compartilhar o App com outras pessoas.
@@ -18,7 +18,7 @@ Com o consumo de uma API RESTful é possível sempre ter os valos das moedas sem
 Além de elegante foi projetado para atender da melhor forma possível e simples as necessidades do usuário quanto a conversão de moedas.
 
 
-## Plugins Utilizados
+## Plugins Utilizados :wrench:
   - cupertino_icons: ^1.0.0
   - firebase_analytics: ^7.1.1
   - firebase_crashlytics: ^1.0.0
@@ -33,7 +33,7 @@ Além de elegante foi projetado para atender da melhor forma possível e simples
   - mobx_codegen: ^1.1.2
 
 
-## O que o App é capaz de fazer :checkered_flag:
+## O que o App é capaz de fazer :heavy_check_mark:
 
 :trophy: Converter as principais moedas do mercado instantaneamente.
 
