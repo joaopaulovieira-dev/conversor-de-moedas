@@ -6,7 +6,7 @@
 
 <img src="https://joaopaulovieira.dev/img_github/conversor-de-moedas/Presentation.png">
 
-## Link do Apps na Playstore:
+## Link do App na Playstore:
 
 [Conversor de Moedas](https://play.google.com/store/apps/details?id=dev.joaopaulovieira.conversor_moeda_jpvp)
 
