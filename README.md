@@ -40,4 +40,4 @@ Além de elegante foi projetado para atender da melhor forma possível e simples
 :trophy: Acompanhar os fechamentos das moedas através de gráficos.
 
 
-### Feito com ♥ e Flutter!
+### Feito com ♥ em Flutter!
