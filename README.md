@@ -18,7 +18,6 @@ Com o consumo de uma API RESTful é possível ter os valos das moedas sempre atu
 Além de elegante foi projetado para atender da melhor forma possível a experiência e necessidades do usuário quanto a conversão de moedas.
 
 
-
 ## Plugins Utilizados :wrench:
   - cupertino_icons: ^1.0.0
   - firebase_analytics: ^7.1.1
