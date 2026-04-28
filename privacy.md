@@ -1,35 +1,24 @@
-# Política de Privacidade
+# Política de Privacidade - Conversor de Moedas
 
-**João Paulo** construiu o aplicativo **Conversor de Moedas** como um aplicativo Gratuito. Este SERVIÇO é fornecido por João Paulo sem custo e destina-se a ser utilizado no estado em que se encontra.
+Esta política de privacidade descreve como o aplicativo **Conversor de Moedas**, desenvolvido por **João Paulo**, trata as informações ao utilizar o serviço.
 
-Esta página é usada para informar os visitantes sobre minhas políticas relativas à coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar meu Serviço.
+## 1. Coleta de Dados e Cadastro
+O aplicativo **Conversor de Moedas** foi projetado para ser utilizado sem a necessidade de qualquer tipo de cadastro ou criação de conta. 
+* **Sem Cadastro:** Não solicitamos nome, e-mail, telefone ou qualquer outra informação pessoal para que o app funcione.
+* **Sem Coleta de Dados Pessoais:** Não coletamos, armazenamos ou transmitimos dados que possam identificar pessoalmente o usuário.
 
-Se você optar por usar meu Serviço, concorda com a coleta e o uso de informações em relação a esta política. As Informações Pessoais que coleto são usadas para fornecer e melhorar o Serviço. Não usarei ou compartilharei suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
+## 2. Permissões e Dados de Uso
+Para o funcionamento da conversão de moedas, o aplicativo requer acesso à internet para atualizar as taxas de câmbio. 
+* **Dados de Log:** Como a maioria dos aplicativos, em caso de erro técnico, podem ser gerados dados de log básicos (versão do sistema, modelo do aparelho) de forma anônima para fins de correção de bugs.
+* **Serviços de Terceiros:** O aplicativo pode utilizar serviços básicos da Google Play Services para garantir a estabilidade técnica, que seguem suas próprias políticas de privacidade.
 
-## Coleta e Uso de Informações
+## 3. Segurança
+Como não coletamos dados pessoais ou de login, não há armazenamento de informações sensíveis do usuário em servidores externos sob nossa responsabilidade.
 
-Para uma melhor experiência ao usar nosso Serviço, posso exigir que você nos forneça certas informações pessoalmente identificáveis. As informações que solicito serão retidas no seu dispositivo e não são coletadas por mim de forma alguma.
+## 4. Alterações nesta Política
+Esta política pode ser atualizada ocasionalmente. Recomenda-se a leitura periódica desta página disponível no GitHub Pages.
 
-*O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.*
+## 5. Contato
+Se você tiver dúvidas sobre esta política de privacidade, pode entrar em contato através do perfil do desenvolvedor no GitHub.
 
-Link para a política de privacidade de provedores de serviços de terceiros usados pelo aplicativo (remova os que não usar):
-* [Google Play Services](https://policies.google.com/privacy)
-* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-
-## Dados de Log
-
-Quero informar que sempre que você usa meu Serviço, em caso de erro no aplicativo, coleto dados e informações (através de produtos de terceiros) no seu telefone, chamados Dados de Log. Esses Dados de Log podem incluir informações como o endereço de Protocolo de Internet ("IP") do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar meu Serviço, a hora e a data do seu uso do Serviço e outras estatísticas.
-
-## Segurança
-
-Valorizo sua confiança em nos fornecer suas Informações Pessoais, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.
-
-## Alterações a Esta Política de Privacidade
-
-Posso atualizar nossa Política de Privacidade de tempos em tempos. Portanto, é recomendável revisar esta página periodicamente para quaisquer alterações. Vou notificá-lo de quaisquer alterações postando a nova Política de Privacidade nesta página.
-
-Esta política é efetiva a partir de **27 de abril de 2026**.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão sobre minha Política de Privacidade, não hesite em entrar em contato comigo através do meu GitHub.
+*Última atualização: 28 de abril de 2026.*
